@@ -2,6 +2,8 @@ Niestety nie pamiętam czy na wykładach były delegacje, ale postaram się wyja
 
 Słowo kluczowe delegate wskazuje na metodę, która zwraca to samo(lub nie zwraca nic jak w przypadku void) oraz identyczne parametry lub ich brak jak pewna metoda, którą chcemy użyć posługując się delegatem. 
 
+Delegat jest typem referencyjnym, który w przeciwieństwie do wskazywania na obiekt wskazuje na metodę, która charakteryzuje się taki samymi typami i ilością parametrów oraz rodzajem wzracanej wartości. 
+
 ```cs
 delegate int Delegacja(int i);
     class A
@@ -18,7 +20,7 @@ delegate int Delegacja(int i);
     }
 ```
 
-Jak widać delegate Delegacja zwraca int oraz przyjmuje parametr int tak samo jak metoda DoRoboty.
+
 
 W tym przypadku jednak delegate jest sprzężony razem z eventem.
 Jeśli odpalimy metodę DoRoboty, a event SieDzieje ma przypisaną wartość null(nie został uruchomiony) to metoda przypisuje do zmiennej i podaną jako parametr metody wartość. 
@@ -34,7 +36,7 @@ else
     this.i = i;
 ```
 
-Kolejne linijki kodu sprawiają, że event SieDzieje nie jest już nieaktywny.
+Kolejne linijki kodu sprawiają, że event SieDzieje nie jest już nieaktywny.(Stał się aktywny)
 ```cs
 a.SieDzieje += x => 2 * x - 1;
 a.DoRoboty(5);
