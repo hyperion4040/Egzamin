@@ -36,7 +36,7 @@ else
     this.i = i;
 ```
 
-Kolejne linijki kodu sprawiają, że event SieDzieje nie jest już nieaktywny.
+Kolejne linijki kodu sprawiają, że event SieDzieje nie jest już nieaktywny.(Stał się aktywny)
 ```cs
 a.SieDzieje += x => 2 * x - 1;
 a.DoRoboty(5);
