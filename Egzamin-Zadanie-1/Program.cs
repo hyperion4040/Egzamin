@@ -19,8 +19,9 @@ namespace Zadanie_1
             A a = new A();
             a.DoRoboty(2);
             Console.WriteLine("{0}", a.i);
+
             Delegacja raz = x => { Console.WriteLine("jeden"); return x - 1; };
-            a.SieDzieje += new Delegacja(raz);
+            a.SieDzieje +=  new Delegacja(raz);
             a.DoRoboty(a.i);
             Console.WriteLine("{0}", a.i);
             a.SieDzieje += new Delegacja(delegate(int x)
