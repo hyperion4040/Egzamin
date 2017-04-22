@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../Zadanie-3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../Zadanie-4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../Zadanie-5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Zadanie_1" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../Zadanie-1/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../Zadanie-1/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../Zadanie-2/bin" />
@@ -17,6 +18,8 @@
       <excludeFolder url="file://$MODULE_DIR$/../../Zadanie-4/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../Zadanie-5/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../Zadanie-5/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Zadanie_1/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Zadanie_1/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../packages" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />

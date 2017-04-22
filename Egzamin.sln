@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie-4", "Zadanie-4\Zada
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie-5", "Zadanie-5\Zadanie-5.csproj", "{EFC9F313-B0A1-483E-AA95-CF213BBF0997}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Kolokwium", "Kolokwium", "{8F7D2F63-9189-42BF-916E-0E3D81046C04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Egzamin", "Egzamin", "{D7B8880C-349A-4B96-AA36-C4622318E448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie_1", "Zadanie_1\Zadanie_1.csproj", "{5CF56FE7-7B72-44BB-8C39-D34C05F5A738}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,8 +45,16 @@ Global
 		{EFC9F313-B0A1-483E-AA95-CF213BBF0997}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFC9F313-B0A1-483E-AA95-CF213BBF0997}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFC9F313-B0A1-483E-AA95-CF213BBF0997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF56FE7-7B72-44BB-8C39-D34C05F5A738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF56FE7-7B72-44BB-8C39-D34C05F5A738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF56FE7-7B72-44BB-8C39-D34C05F5A738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF56FE7-7B72-44BB-8C39-D34C05F5A738}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7775C6A0-EC85-4F5B-894A-F8C5494E330F} = {8F7D2F63-9189-42BF-916E-0E3D81046C04}
+		{5CF56FE7-7B72-44BB-8C39-D34C05F5A738} = {D7B8880C-349A-4B96-AA36-C4622318E448}
 	EndGlobalSection
 EndGlobal
