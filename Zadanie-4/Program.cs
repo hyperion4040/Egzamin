@@ -15,7 +15,7 @@ namespace Zadanie_4
     class B : A {
         int z;
         static void metodaC(){}
-        public override void metodaA() {}
+        public override void metodaA() {Console.WriteLine("Jest");}
         public B(int i) { z = i; }
         public B() : this(0) { }
     }

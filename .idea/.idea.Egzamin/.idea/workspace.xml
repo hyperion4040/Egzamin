@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4ca08d2-2743-42b7-8878-cf5bbd2e3a89" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Egzamin/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Egzamin/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Egzamin/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.Egzamin/riderModule.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Egzamin.sln" afterPath="$PROJECT_DIR$/Egzamin.sln" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Zadanie-2/Zadanie-2.csproj" afterPath="$PROJECT_DIR$/Zadanie-2/Zadanie-2.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Zadanie_1/Program.cs" afterPath="$PROJECT_DIR$/Zadanie_1/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Zadanie-4/Program.cs" afterPath="$PROJECT_DIR$/Zadanie-4/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Zadanie-4/Readme.md" afterPath="$PROJECT_DIR$/Zadanie-4/Readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Zadanie-4/Zadanie-4.csproj" afterPath="$PROJECT_DIR$/Zadanie-4/Zadanie-4.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Zadanie-4/obj/Debug/Zadanie-4.csproj.FilesWrittenAbsolute.txt" afterPath="$PROJECT_DIR$/Zadanie-4/obj/Debug/Zadanie-4.csproj.FilesWrittenAbsolute.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,17 +38,34 @@
         </entry>
       </file>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Zadanie_1/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Egzamin-Zadanie-1/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="347">
+              <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
               <folding>
-                <marker date="1492881101845" expanded="false" signature="6:47" ph="..." />
-                <marker date="1492881101845" expanded="true" signature="68:1046" ph="{...}" />
-                <marker date="1492881101845" expanded="true" signature="117:352" ph="{...}" />
-                <marker date="1492881101845" expanded="true" signature="222:346" ph="{...}" />
-                <marker date="1492881101845" expanded="true" signature="367:1044" ph="{...}" />
-                <marker date="1492881101845" expanded="true" signature="408:1038" ph="{...}" />
+                <marker date="1492881450944" expanded="false" signature="6:47" ph="..." />
+                <marker date="1492881450944" expanded="true" signature="68:1046" ph="{...}" />
+                <marker date="1492881450944" expanded="true" signature="117:352" ph="{...}" />
+                <marker date="1492881450944" expanded="true" signature="222:346" ph="{...}" />
+                <marker date="1492881450944" expanded="true" signature="367:1044" ph="{...}" />
+                <marker date="1492881450944" expanded="true" signature="408:1038" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zadanie-4/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+              <folding>
+                <marker date="1492884213078" expanded="true" signature="6:47" ph="..." />
+                <marker date="1492884213078" expanded="true" signature="68:912" ph="{...}" />
+                <marker date="1492884213078" expanded="true" signature="92:231" ph="{...}" />
+                <marker date="1492884213078" expanded="true" signature="248:438" ph="{...}" />
+                <marker date="1492884213078" expanded="true" signature="454:909" ph="{...}" />
+                <marker date="1492884213078" expanded="true" signature="496:903" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -62,9 +83,11 @@
         <option value="$PROJECT_DIR$/Zadanie-1/Program.cs" />
         <option value="$PROJECT_DIR$/Zadanie-2/Program.cs" />
         <option value="$PROJECT_DIR$/Zadanie-3/Program.cs" />
-        <option value="$PROJECT_DIR$/Zadanie-4/Program.cs" />
         <option value="$PROJECT_DIR$/Zadanie-5/Program.cs" />
         <option value="$PROJECT_DIR$/Zadanie_1/Program.cs" />
+        <option value="$PROJECT_DIR$/Egzamin-Zadanie-1/Program.cs" />
+        <option value="$PROJECT_DIR$/Zadanie-4/Program.cs" />
+        <option value="$PROJECT_DIR$/Zadanie-4/Class1.cs" />
       </list>
     </option>
   </component>
@@ -122,6 +145,54 @@
               <option name="myItemId" value="Egzamin (6 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kolokwium" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zadanie-4" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Egzamin (6 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kolokwium" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zadanie-4" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Properties" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Egzamin (6 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Egzamin" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Egzamin-Zadanie-1" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
         <option name="show-file-system" value="false" />
@@ -144,26 +215,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.Zadanie-3">
-    <configuration default="false" name="Zadanie-2" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Zadanie-2/Zadanie-2.csproj" />
+  <component name="RunManager" selected=".NET Project.Zadanie">
+    <configuration default="false" name="Egzamin" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Egzamin-Zadanie-1/Egzamin-Zadanie-1.csproj" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
-      <option name="EXE_PATH" value="$PROJECT_DIR$/Zadanie-2/bin/Debug/Zadanie_2.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Egzamin-Zadanie-1/bin/Debug/Egzamin_Zadanie_1.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadanie-2/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Egzamin-Zadanie-1/bin/Debug" />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Zadanie-3" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Zadanie-5/Zadanie-5.csproj" />
+    <configuration default="false" name="Zadanie" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Zadanie-4/Zadanie-4.csproj" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
-      <option name="EXE_PATH" value="$PROJECT_DIR$/Zadanie-5/bin/Debug/Zadanie_5.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Zadanie-4/bin/Debug/Zadanie_4.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadanie-5/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadanie-4/bin/Debug" />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <envs />
@@ -243,13 +314,13 @@
     </configuration>
     <list size="3">
       <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
-      <item index="1" class="java.lang.String" itemvalue=".NET Project.Zadanie-2" />
-      <item index="2" class="java.lang.String" itemvalue=".NET Project.Zadanie-3" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.Egzamin" />
+      <item index="2" class="java.lang.String" itemvalue=".NET Project.Zadanie" />
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue=".NET Project.Zadanie-3" />
-        <item index="1" class="java.lang.String" itemvalue=".NET Project.Zadanie-2" />
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.Zadanie" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project.Egzamin" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +337,7 @@
       <workItem from="1492702617771" duration="2997000" />
       <workItem from="1492709201703" duration="12442000" />
       <workItem from="1492855077393" duration="4290000" />
-      <workItem from="1492880198658" duration="915000" />
+      <workItem from="1492880198658" duration="4341000" />
     </task>
     <task id="LOCAL-00001" summary="Added refactored Readme file for Zadanie 1">
       <created>1492712833760</created>
@@ -314,7 +385,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20644000" />
+    <option name="totallyTimeSpent" value="24070000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -327,14 +398,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34055728" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27250996" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -397,6 +469,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <marker date="1492884213078" expanded="true" signature="6:47" ph="..." />
+            <marker date="1492884213078" expanded="true" signature="68:912" ph="{...}" />
+            <marker date="1492884213078" expanded="true" signature="92:231" ph="{...}" />
+            <marker date="1492884213078" expanded="true" signature="248:438" ph="{...}" />
+            <marker date="1492884213078" expanded="true" signature="454:909" ph="{...}" />
+            <marker date="1492884213078" expanded="true" signature="496:903" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -422,17 +502,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Zadanie-4/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Zadanie-3/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zadanie_1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <marker date="1492881101845" expanded="false" signature="6:47" ph="..." />
+            <marker date="1492881101845" expanded="true" signature="68:1046" ph="{...}" />
+            <marker date="1492881101845" expanded="true" signature="117:352" ph="{...}" />
+            <marker date="1492881101845" expanded="true" signature="222:346" ph="{...}" />
+            <marker date="1492881101845" expanded="true" signature="367:1044" ph="{...}" />
+            <marker date="1492881101845" expanded="true" signature="408:1038" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -451,17 +539,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Zadanie_1/Program.cs">
+    <entry file="file://$PROJECT_DIR$/Zadanie-4/Properties/AssemblyInfo.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1492881101845" expanded="false" signature="6:47" ph="..." />
-            <marker date="1492881101845" expanded="true" signature="68:1046" ph="{...}" />
-            <marker date="1492881101845" expanded="true" signature="117:352" ph="{...}" />
-            <marker date="1492881101845" expanded="true" signature="222:346" ph="{...}" />
-            <marker date="1492881101845" expanded="true" signature="367:1044" ph="{...}" />
-            <marker date="1492881101845" expanded="true" signature="408:1038" ph="{...}" />
+            <marker date="1492721802427" expanded="false" signature="6:101" ph="..." />
+            <marker date="1492721802427" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1492721802427" expanded="true" signature="595:805" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1492721802427" expanded="true" signature="980:1307" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zadanie-4/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zadanie-4/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+          <folding>
+            <marker date="1492884213078" expanded="true" signature="6:47" ph="..." />
+            <marker date="1492884213078" expanded="true" signature="68:912" ph="{...}" />
+            <marker date="1492884213078" expanded="true" signature="92:231" ph="{...}" />
+            <marker date="1492884213078" expanded="true" signature="248:438" ph="{...}" />
+            <marker date="1492884213078" expanded="true" signature="454:909" ph="{...}" />
+            <marker date="1492884213078" expanded="true" signature="496:903" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egzamin-Zadanie-1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <marker date="1492881450944" expanded="false" signature="6:47" ph="..." />
+            <marker date="1492881450944" expanded="true" signature="68:1046" ph="{...}" />
+            <marker date="1492881450944" expanded="true" signature="117:352" ph="{...}" />
+            <marker date="1492881450944" expanded="true" signature="222:346" ph="{...}" />
+            <marker date="1492881450944" expanded="true" signature="367:1044" ph="{...}" />
+            <marker date="1492881450944" expanded="true" signature="408:1038" ph="{...}" />
           </folding>
         </state>
       </provider>
