@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b4ca08d2-2743-42b7-8878-cf5bbd2e3a89" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Egzamin/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Egzamin/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Egzamin/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.Egzamin/riderModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Egzamin.sln" afterPath="$PROJECT_DIR$/Egzamin.sln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Zadanie-4/Readme.md" afterPath="$PROJECT_DIR$/Zadanie-4/Readme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,7 +38,7 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Egzamin-Zadanie-5/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-80">
+            <state relative-caret-position="-41">
               <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
               <folding>
                 <marker date="1492970880348" expanded="false" signature="6:47" ph="..." />
@@ -299,7 +298,7 @@
       <workItem from="1492855077393" duration="4290000" />
       <workItem from="1492880198658" duration="11947000" />
       <workItem from="1492943042310" duration="1803000" />
-      <workItem from="1492962208766" duration="5018000" />
+      <workItem from="1492962208766" duration="5719000" />
     </task>
     <task id="LOCAL-00001" summary="Added refactored Readme file for Zadanie 1">
       <created>1492712833760</created>
@@ -357,11 +356,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492888440578</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added Readme to Egzamin-Zadanie-5">
+      <created>1492971547829</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1492971547829</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38497000" />
+    <option name="totallyTimeSpent" value="39198000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -374,15 +380,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34055728" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2820717" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -414,7 +419,8 @@
     <MESSAGE value="Inserting exercise into different directories" />
     <MESSAGE value="Added Readme to Zadanie-4" />
     <MESSAGE value="Added Readme to Egzamin-Zadanie-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Readme to Egzamin-Zadanie-1" />
+    <MESSAGE value="Added Readme to Egzamin-Zadanie-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Readme to Egzamin-Zadanie-5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -567,7 +573,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Egzamin-Zadanie-5/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80">
+        <state relative-caret-position="-41">
           <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           <folding>
             <marker date="1492970880348" expanded="false" signature="6:47" ph="..." />
