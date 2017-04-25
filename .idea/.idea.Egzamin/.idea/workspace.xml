@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4ca08d2-2743-42b7-8878-cf5bbd2e3a89" name="Default" comment="Little changes in Readme to Zadanie-4">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zadania/Osoba.cs" />
+    <list default="true" id="b4ca08d2-2743-42b7-8878-cf5bbd2e3a89" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Egzamin/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Egzamin/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Egzamin/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.Egzamin/riderModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Egzamin.sln" afterPath="$PROJECT_DIR$/Egzamin.sln" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/Zadania/Osoba.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
               <folding>
                 <marker date="1493147829968" expanded="true" signature="17:500" ph="{...}" />
                 <marker date="1493147829968" expanded="true" signature="42:498" ph="{...}" />
@@ -346,7 +343,7 @@
       <workItem from="1492880198658" duration="11947000" />
       <workItem from="1492943042310" duration="1803000" />
       <workItem from="1492962208766" duration="6915000" />
-      <workItem from="1493138778543" duration="4948000" />
+      <workItem from="1493138778543" duration="5060000" />
     </task>
     <task id="LOCAL-00001" summary="Added refactored Readme file for Zadanie 1">
       <created>1492712833760</created>
@@ -425,11 +422,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493138794860</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added two new class in library Zadania and Console application in KontoUI">
+      <created>1493148423467</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1493148423467</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45342000" />
+    <option name="totallyTimeSpent" value="45454000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -484,7 +488,8 @@
     <MESSAGE value="Added Readme to Egzamin-Zadanie-1" />
     <MESSAGE value="Added Readme to Egzamin-Zadanie-5" />
     <MESSAGE value="Little changes in Readme to Zadanie-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Little changes in Readme to Zadanie-4" />
+    <MESSAGE value="Added two new class in library Zadania and Console application in KontoUI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added two new class in library Zadania and Console application in KontoUI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -738,7 +743,7 @@
     <entry file="file://$PROJECT_DIR$/Zadania/Osoba.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
           <folding>
             <marker date="1493147829968" expanded="true" signature="17:500" ph="{...}" />
             <marker date="1493147829968" expanded="true" signature="42:498" ph="{...}" />
