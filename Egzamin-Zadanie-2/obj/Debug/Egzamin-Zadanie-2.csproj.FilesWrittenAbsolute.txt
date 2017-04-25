@@ -1,0 +1,5 @@
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Egzamin-Zadanie-2/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Egzamin-Zadanie-2/bin/Debug/Egzamin_Zadanie_2.exe.mdb
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Egzamin-Zadanie-2/bin/Debug/Egzamin_Zadanie_2.exe
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Egzamin-Zadanie-2/obj/Debug/Egzamin_Zadanie_2.exe
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Egzamin-Zadanie-2/obj/Debug/Egzamin_Zadanie_2.exe.mdb
