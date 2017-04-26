@@ -1,0 +1,5 @@
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Zadania/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Zadania/bin/Debug/Zadania.dll.mdb
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Zadania/bin/Debug/Zadania.dll
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Zadania/obj/Debug/Zadania.dll
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Zadania/obj/Debug/Zadania.dll.mdb

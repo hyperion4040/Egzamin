@@ -1,9 +1,14 @@
-﻿namespace Zadania
+﻿using System;
+
+namespace Zadania
 {
     public class Osoba
     {
         private string imie;
-        private string nazwisko;
+        private string nazwisko = "Kowalski";
+        private int numerEwidencyjny;
+        private Adres adresZamieszkania;
+
 
         public string Imie
         {
@@ -17,10 +22,20 @@
             set { nazwisko = value; }
         }
 
-        public Osoba(string imie, string nazwisko)
+        public Osoba(string imie, string nazwisko, int numerEwidencyjny, Adres adresZamieszkania)
         {
             this.imie = imie;
             this.nazwisko = nazwisko;
+            this.numerEwidencyjny = numerEwidencyjny;
+            this.adresZamieszkania = adresZamieszkania;
         }
+
+        public Osoba()
+        {
+        }
+
+
+
+
     }
 }

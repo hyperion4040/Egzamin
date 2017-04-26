@@ -1,0 +1,7 @@
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/KontoUI/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/KontoUI/bin/Debug/KontoUI.exe.mdb
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/KontoUI/bin/Debug/KontoUI.exe
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/KontoUI/obj/Debug/KontoUI.exe
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/KontoUI/obj/Debug/KontoUI.exe.mdb
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/KontoUI/bin/Debug/Zadania.dll
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/KontoUI/bin/Debug/Zadania.dll.mdb
