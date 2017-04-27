@@ -40,6 +40,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Gwozdzie.cs" />
+    <Compile Include="Meble.cs" />
+    <Compile Include="PapierScierny.cs" />
     <Compile Include="Towar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
