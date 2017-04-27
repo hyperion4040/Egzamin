@@ -2,7 +2,7 @@
 {
     public class Adres
     {
-        private string nazwaUlicy "Aleje Jerozolimskie";
+        private string nazwaUlicy ="Aleje Jerozolimskie";
         private string miejscowość = "Warszawa";
         private int numerDomu;
         private int numerMieszkania;

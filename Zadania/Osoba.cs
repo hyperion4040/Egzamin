@@ -30,12 +30,19 @@ namespace Zadania
             this.adresZamieszkania = adresZamieszkania;
         }
 
+        public Osoba(string imie, string nazwisko)
+        {
+            this.imie = imie;
+            this.nazwisko = nazwisko;
+        }
+
         public Osoba()
         {
         }
 
-
-
-
+        public override string ToString()
+        {
+            return "Imie: " + imie + "\n Nazwisko: " + nazwisko;
+        }
     }
 }
