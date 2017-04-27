@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../Egzamin-Zadanie-4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../Egzamin-Zadanie-5" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../KontoUI" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Towary" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../Zadania" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../Zadanie-1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../Zadanie-2" isTestSource="false" />
@@ -26,6 +27,8 @@
       <excludeFolder url="file://$MODULE_DIR$/../../Egzamin-Zadanie-5/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../KontoUI/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../KontoUI/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Towary/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Towary/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../Zadania/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../Zadania/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../Zadanie-1/bin" />

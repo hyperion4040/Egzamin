@@ -19,8 +19,8 @@ namespace KontoUI
 //
 //            Console.WriteLine(name["Luty"] = "29");
 //            Console.WriteLine(3.Silnia());
-            Osoba osoba = new Osoba("Adrian","Kozlowski");
-            Console.WriteLine(osoba.ToString());
+//            Osoba osoba = new Osoba("Adrian","Kozlowski");
+//            Console.WriteLine(osoba.ToString());
         }
     }
 }
