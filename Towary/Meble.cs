@@ -8,9 +8,7 @@ namespace Towary
 
         public override void Opis()
         {
-            Console.WriteLine("Nazwa towaru: {0}", nazwa);
-            Console.WriteLine("Cena towaru: {0}",cena);
-            Console.WriteLine("Ilość towaru: {0}",ilosc);
+            base.Opis();
             Console.WriteLine("Nazwa kolekcji: {0}",nazwaKolekcji);
         }
     }

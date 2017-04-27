@@ -1,0 +1,5 @@
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Towary/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Towary/bin/Debug/Towary.dll.mdb
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Towary/bin/Debug/Towary.dll
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Towary/obj/Debug/Towary.dll
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/Towary/obj/Debug/Towary.dll.mdb

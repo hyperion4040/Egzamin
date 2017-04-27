@@ -5,3 +5,5 @@
 /home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/KontoUI/obj/Debug/KontoUI.exe.mdb
 /home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/KontoUI/bin/Debug/Zadania.dll
 /home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/KontoUI/bin/Debug/Zadania.dll.mdb
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/KontoUI/bin/Debug/Towary.dll
+/home/hyperion/Dokumenty/Projects/RiderProjects/Egzamin/KontoUI/bin/Debug/Towary.dll.mdb

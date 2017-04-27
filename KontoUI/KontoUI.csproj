@@ -45,6 +45,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Towary\Towary.csproj">
+      <Project>{c8f4e070-8571-455d-8c9b-2058823bfacb}</Project>
+      <Name>Towary</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Zadania\Zadania.csproj">
       <Project>{e84c9406-ea2d-482b-9028-9cacabb5a79e}</Project>
       <Name>Zadania</Name>

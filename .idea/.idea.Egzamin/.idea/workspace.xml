@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4ca08d2-2743-42b7-8878-cf5bbd2e3a89" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Towary/Meble.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Towary/PapierScierny.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Towary/Szafa.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KontoUI/bin/Debug/KontoUI.exe" afterPath="$PROJECT_DIR$/KontoUI/bin/Debug/KontoUI.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KontoUI/bin/Debug/KontoUI.exe.mdb" afterPath="$PROJECT_DIR$/KontoUI/bin/Debug/KontoUI.exe.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KontoUI/obj/Debug/KontoUI.exe" afterPath="$PROJECT_DIR$/KontoUI/obj/Debug/KontoUI.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KontoUI/obj/Debug/KontoUI.exe.mdb" afterPath="$PROJECT_DIR$/KontoUI/obj/Debug/KontoUI.exe.mdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Egzamin/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Egzamin/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KontoUI/KontoUI.csproj" afterPath="$PROJECT_DIR$/KontoUI/KontoUI.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KontoUI/Program.cs" afterPath="$PROJECT_DIR$/KontoUI/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KontoUI/obj/Debug/KontoUI.csproj.FilesWrittenAbsolute.txt" afterPath="$PROJECT_DIR$/KontoUI/obj/Debug/KontoUI.csproj.FilesWrittenAbsolute.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Towary/Gwozdzie.cs" afterPath="$PROJECT_DIR$/Towary/Gwozdzie.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Towary/Meble.cs" afterPath="$PROJECT_DIR$/Towary/Meble.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Towary/PapierScierny.cs" afterPath="$PROJECT_DIR$/Towary/PapierScierny.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Towary/Towary.csproj" afterPath="$PROJECT_DIR$/Towary/Towary.csproj" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,20 +29,20 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KontoUI/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="299">
+              <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
               <folding>
-                <marker date="1493326900602" expanded="true" signature="6:62" ph="..." />
-                <marker date="1493326900602" expanded="true" signature="81:727" ph="{...}" />
-                <marker date="1493326900602" expanded="true" signature="110:725" ph="{...}" />
-                <marker date="1493326900602" expanded="true" signature="163:719" ph="{...}" />
-                <marker date="1493326900602" expanded="true" signature="174:709" ph="/* var konto = new Konto(new Osoba(&quot;Adrian&quot;,&quot;Kozłowski&quot;),30,1234); ... */" />
+                <marker date="1493328286512" expanded="true" signature="6:76" ph="..." />
+                <marker date="1493328286512" expanded="true" signature="95:811" ph="{...}" />
+                <marker date="1493328286512" expanded="true" signature="124:809" ph="{...}" />
+                <marker date="1493328286512" expanded="true" signature="177:803" ph="{...}" />
+                <marker date="1493328286512" expanded="true" signature="188:723" ph="/* var konto = new Konto(new Osoba(&quot;Adrian&quot;,&quot;Kozłowski&quot;),30,1234); ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Konto.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Konto.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Zadania/Konto.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
@@ -57,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Towar.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Towar.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Towary/Towar.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="300">
+              <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
                 <marker date="1493326900594" expanded="true" signature="31:392" ph="{...}" />
                 <marker date="1493326900594" expanded="true" signature="56:390" ph="{...}" />
@@ -74,12 +82,12 @@
       <file leaf-file-name="Gwozdzie.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Towary/Gwozdzie.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="240">
+              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding>
-                <marker date="1493327817781" expanded="true" signature="31:591" ph="{...}" />
-                <marker date="1493327817781" expanded="true" signature="67:589" ph="{...}" />
-                <marker date="1493327817781" expanded="true" signature="216:583" ph="{...}" />
+                <marker date="1493328516152" expanded="true" signature="31:443" ph="{...}" />
+                <marker date="1493328516152" expanded="true" signature="67:441" ph="{...}" />
+                <marker date="1493328516152" expanded="true" signature="216:435" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -88,12 +96,12 @@
       <file leaf-file-name="PapierScierny.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Towary/PapierScierny.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="56" lean-forward="false" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+            <state relative-caret-position="240">
+              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding>
-                <marker date="1493327817777" expanded="true" signature="31:511" ph="{...}" />
-                <marker date="1493327817777" expanded="true" signature="72:509" ph="{...}" />
-                <marker date="1493327817777" expanded="true" signature="187:503" ph="{...}" />
+                <marker date="1493328516148" expanded="true" signature="31:363" ph="{...}" />
+                <marker date="1493328516148" expanded="true" signature="72:361" ph="{...}" />
+                <marker date="1493328516148" expanded="true" signature="187:355" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -102,12 +110,26 @@
       <file leaf-file-name="Meble.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Towary/Meble.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="65" lean-forward="false" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+            <state relative-caret-position="200">
+              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
-                <marker date="1493327817769" expanded="true" signature="31:416" ph="{...}" />
-                <marker date="1493327817769" expanded="true" signature="64:414" ph="{...}" />
-                <marker date="1493327817769" expanded="true" signature="147:408" ph="{...}" />
+                <marker date="1493328516144" expanded="true" signature="31:268" ph="{...}" />
+                <marker date="1493328516144" expanded="true" signature="64:266" ph="{...}" />
+                <marker date="1493328516144" expanded="true" signature="147:260" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Szafa.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Towary/Szafa.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <marker date="1493328455416" expanded="true" signature="31:442" ph="{...}" />
+                <marker date="1493328455416" expanded="true" signature="64:440" ph="{...}" />
+                <marker date="1493328455416" expanded="true" signature="214:434" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -152,9 +174,10 @@
         <option value="$PROJECT_DIR$/Zadania/Osoba.cs" />
         <option value="$PROJECT_DIR$/Towary/Class1.cs" />
         <option value="$PROJECT_DIR$/KontoUI/Program.cs" />
-        <option value="$PROJECT_DIR$/Towary/Gwozdzie.cs" />
+        <option value="$PROJECT_DIR$/Towary/Szafa.cs" />
         <option value="$PROJECT_DIR$/Towary/Meble.cs" />
         <option value="$PROJECT_DIR$/Towary/PapierScierny.cs" />
+        <option value="$PROJECT_DIR$/Towary/Gwozdzie.cs" />
       </list>
     </option>
   </component>
@@ -382,7 +405,7 @@
       <workItem from="1493217594146" duration="8668000" />
       <workItem from="1493295964927" duration="1544000" />
       <workItem from="1493316584056" duration="872000" />
-      <workItem from="1493317485604" duration="5647000" />
+      <workItem from="1493317485604" duration="6355000" />
     </task>
     <task id="LOCAL-00001" summary="Added refactored Readme file for Zadanie 1">
       <created>1492712833760</created>
@@ -503,11 +526,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493326993744</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added few classes.">
+      <created>1493327838405</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1493327838405</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62215000" />
+    <option name="totallyTimeSpent" value="62923000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -523,12 +553,12 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32817337" sideWeight="0.50278884" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34055728" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32817337" sideWeight="0.49721116" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32817337" sideWeight="0.49721116" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3059761" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -589,30 +619,14 @@
     <MESSAGE value="Added two new class in library Zadania and Console application in KontoUI" />
     <MESSAGE value="Added few new classes and inheritage between them." />
     <MESSAGE value="Added new class Towar with virtual method opis." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new class Towar with virtual method opis." />
+    <MESSAGE value="Added few classes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added few classes." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Zadania/Osoba.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <marker date="1493326364356" expanded="true" signature="32:1077" ph="{...}" />
-            <marker date="1493326364356" expanded="true" signature="57:1075" ph="{...}" />
-            <marker date="1493326364356" expanded="true" signature="246:333" ph="{...}" />
-            <marker date="1493326364356" expanded="true" signature="365:460" ph="{...}" />
-            <marker date="1493326364356" expanded="true" signature="559:757" ph="{...}" />
-            <marker date="1493326364356" expanded="true" signature="809:897" ph="{...}" />
-            <marker date="1493326364356" expanded="true" signature="921:941" ph="{...}" />
-            <marker date="1493326364356" expanded="true" signature="984:1069" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Zadania/Adres.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -646,11 +660,11 @@
         <state relative-caret-position="260">
           <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
           <folding>
-            <marker date="1493326900602" expanded="true" signature="6:62" ph="..." />
-            <marker date="1493326900602" expanded="true" signature="81:727" ph="{...}" />
-            <marker date="1493326900602" expanded="true" signature="110:725" ph="{...}" />
-            <marker date="1493326900602" expanded="true" signature="163:719" ph="{...}" />
-            <marker date="1493326900602" expanded="true" signature="174:709" ph="/* var konto = new Konto(new Osoba(&quot;Adrian&quot;,&quot;Kozłowski&quot;),30,1234); ... */" />
+            <marker date="1493328286512" expanded="true" signature="6:76" ph="..." />
+            <marker date="1493328286512" expanded="true" signature="95:811" ph="{...}" />
+            <marker date="1493328286512" expanded="true" signature="124:809" ph="{...}" />
+            <marker date="1493328286512" expanded="true" signature="177:803" ph="{...}" />
+            <marker date="1493328286512" expanded="true" signature="188:723" ph="/* var konto = new Konto(new Osoba(&quot;Adrian&quot;,&quot;Kozłowski&quot;),30,1234); ... */" />
           </folding>
         </state>
       </provider>
@@ -754,11 +768,11 @@
         <state relative-caret-position="200">
           <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="11" selection-end-column="34" />
           <folding>
-            <marker date="1493326900602" expanded="true" signature="6:62" ph="..." />
-            <marker date="1493326900602" expanded="true" signature="81:727" ph="{...}" />
-            <marker date="1493326900602" expanded="true" signature="110:725" ph="{...}" />
-            <marker date="1493326900602" expanded="true" signature="163:719" ph="{...}" />
-            <marker date="1493326900602" expanded="true" signature="174:709" ph="/* var konto = new Konto(new Osoba(&quot;Adrian&quot;,&quot;Kozłowski&quot;),30,1234); ... */" />
+            <marker date="1493328286512" expanded="true" signature="6:76" ph="..." />
+            <marker date="1493328286512" expanded="true" signature="95:811" ph="{...}" />
+            <marker date="1493328286512" expanded="true" signature="124:809" ph="{...}" />
+            <marker date="1493328286512" expanded="true" signature="177:803" ph="{...}" />
+            <marker date="1493328286512" expanded="true" signature="188:723" ph="/* var konto = new Konto(new Osoba(&quot;Adrian&quot;,&quot;Kozłowski&quot;),30,1234); ... */" />
           </folding>
         </state>
       </provider>
@@ -1045,14 +1059,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/KontoUI/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="299">
+          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
           <folding>
-            <marker date="1493326900602" expanded="true" signature="6:62" ph="..." />
-            <marker date="1493326900602" expanded="true" signature="81:727" ph="{...}" />
-            <marker date="1493326900602" expanded="true" signature="110:725" ph="{...}" />
-            <marker date="1493326900602" expanded="true" signature="163:719" ph="{...}" />
-            <marker date="1493326900602" expanded="true" signature="174:709" ph="/* var konto = new Konto(new Osoba(&quot;Adrian&quot;,&quot;Kozłowski&quot;),30,1234); ... */" />
+            <marker date="1493328286512" expanded="true" signature="6:76" ph="..." />
+            <marker date="1493328286512" expanded="true" signature="95:811" ph="{...}" />
+            <marker date="1493328286512" expanded="true" signature="124:809" ph="{...}" />
+            <marker date="1493328286512" expanded="true" signature="177:803" ph="{...}" />
+            <marker date="1493328286512" expanded="true" signature="188:723" ph="/* var konto = new Konto(new Osoba(&quot;Adrian&quot;,&quot;Kozłowski&quot;),30,1234); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Towary/PapierScierny.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <marker date="1493328516148" expanded="true" signature="31:363" ph="{...}" />
+            <marker date="1493328516148" expanded="true" signature="72:361" ph="{...}" />
+            <marker date="1493328516148" expanded="true" signature="187:355" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Towary/Gwozdzie.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <marker date="1493328516152" expanded="true" signature="31:443" ph="{...}" />
+            <marker date="1493328516152" expanded="true" signature="67:441" ph="{...}" />
+            <marker date="1493328516152" expanded="true" signature="216:435" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Towary/Meble.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <marker date="1493328516144" expanded="true" signature="31:268" ph="{...}" />
+            <marker date="1493328516144" expanded="true" signature="64:266" ph="{...}" />
+            <marker date="1493328516144" expanded="true" signature="147:260" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Towary/Szafa.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <marker date="1493328455416" expanded="true" signature="31:442" ph="{...}" />
+            <marker date="1493328455416" expanded="true" signature="64:440" ph="{...}" />
+            <marker date="1493328455416" expanded="true" signature="214:434" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Towary/Towar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <marker date="1493326900594" expanded="true" signature="31:392" ph="{...}" />
+            <marker date="1493326900594" expanded="true" signature="56:390" ph="{...}" />
+            <marker date="1493326900594" expanded="true" signature="191:384" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1074,54 +1148,6 @@
             <marker date="1493147881596" expanded="true" signature="791:1021" ph="{...}" />
             <marker date="1493147881596" expanded="true" signature="1038:1182" ph="{...}" />
             <marker date="1493147881596" expanded="true" signature="1257:1379" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Towary/Meble.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="65" lean-forward="false" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
-          <folding>
-            <marker date="1493327817769" expanded="true" signature="31:416" ph="{...}" />
-            <marker date="1493327817769" expanded="true" signature="64:414" ph="{...}" />
-            <marker date="1493327817769" expanded="true" signature="147:408" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Towary/PapierScierny.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="56" lean-forward="false" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
-          <folding>
-            <marker date="1493327817777" expanded="true" signature="31:511" ph="{...}" />
-            <marker date="1493327817777" expanded="true" signature="72:509" ph="{...}" />
-            <marker date="1493327817777" expanded="true" signature="187:503" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Towary/Gwozdzie.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <marker date="1493327817781" expanded="true" signature="31:591" ph="{...}" />
-            <marker date="1493327817781" expanded="true" signature="67:589" ph="{...}" />
-            <marker date="1493327817781" expanded="true" signature="216:583" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Towary/Towar.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <marker date="1493326900594" expanded="true" signature="31:392" ph="{...}" />
-            <marker date="1493326900594" expanded="true" signature="56:390" ph="{...}" />
-            <marker date="1493326900594" expanded="true" signature="191:384" ph="{...}" />
           </folding>
         </state>
       </provider>

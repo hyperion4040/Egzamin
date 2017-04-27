@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Towary;
 using Zadania;
 
 namespace KontoUI
@@ -21,6 +22,9 @@ namespace KontoUI
 //            Console.WriteLine(3.Silnia());
 //            Osoba osoba = new Osoba("Adrian","Kozlowski");
 //            Console.WriteLine(osoba.ToString());
+                Szafa szafa = new Szafa();
+            szafa.Opis();
+
         }
     }
 }
