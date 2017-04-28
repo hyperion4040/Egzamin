@@ -21,13 +21,16 @@ namespace Egzamin_Zadanie_2
         }
         [OnDeserializing()]
         internal void OnDeserializingMethod(StreamingContext context) {
+
             A -= 2;
+
             Console.WriteLine("{0}", A);
+
         }
         [OnDeserialized()]
         internal void OnDeserializedMethod(StreamingContext context) {
             A -= 1;
-            Console.WriteLine("{0}", A);
+           Console.WriteLine("{0}", A);
         }
     }
     class Test {
@@ -36,15 +39,16 @@ namespace Egzamin_Zadanie_2
             BinaryFormatter formater = new BinaryFormatter();
             FileStream fs = null;
             try {
-                fs = new FileStream("dane.dat", FileMode.Create);
+                fs = new FileStream("dane.txt", FileMode.Create);
                 formater.Serialize(fs, obj);
             }
             finally {
                 if (fs != null)
                     fs.Close();
             }
+
             try {
-                fs = new FileStream("dane.dat", FileMode.Open);
+                fs = new FileStream("dane.txt", FileMode.Open);
                 obj = (MojaKlasa)formater.Deserialize(fs);
             }
             finally {
